@@ -1,0 +1,21 @@
+.imgnIcon{
+   width: 10%;    
+   display:block;
+   margin:auto;
+}
+.imgnIcon1{
+    width: 5%;    
+    display:block;
+    margin:auto;
+ }
+ .btn-styleM {
+     background-color:#01A65A;
+     border: none;
+ }
+ .btn-styleM:hover{
+     background-color: #F0CB5B;
+ }
+
+ .box .box-content .newBox {
+     padding: 0 !important;
+ }
